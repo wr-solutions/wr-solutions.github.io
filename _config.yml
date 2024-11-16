@@ -9,7 +9,7 @@ github_username: olawanlejoel
 
 # Build settings
 # theme: minima
-theme: jekyll-theme-clean-blog
+theme: minima
 plugins:
   - jekyll-feed
 
